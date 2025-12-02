@@ -9,7 +9,7 @@ I design and build agentic AI systems and modern applications for real-world use
 ## 🛠️ Languages & Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,ts,js,html,css,react,redux,nodejs,express,django,fastapi,postgresql,mysql,mongodb,git,github,docker,linux" />
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,java,ts,js,react,redux,angular,nodejs,spring,flask,django,fastapi,postgresql,mysql,mongodb,git,github,gitlab,docker,jenkins,kubernetes,githubactions,linux" />
 </p>
 
 ---
