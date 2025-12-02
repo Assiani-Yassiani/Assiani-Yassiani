@@ -25,7 +25,6 @@ I design and build agentic AI systems and modern applications for real-world use
 ## 📫 Connect with Me
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/yassine-assiani-30437b274/)
-- 🐙 [GitHub](https://github.com/YOUR-GITHUB-USERNAME)
 - 📧 yassine.assiani@ensi-uma.tn  
 
 ---
