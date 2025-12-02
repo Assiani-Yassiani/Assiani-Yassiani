@@ -1,16 +1,33 @@
-## Hi there 👋
+# 👋 Hi there, I'm Yassine Assiani
 
-<!--
-**Assiani-Yassiani/Assiani-Yassiani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Computer Science Engineer | AI & Software Engineering | ENSI – National School of Computer Science (Tunisia)**  
 
-Here are some ideas to get you started:
+I design and build agentic AI systems and modern applications for real-world use, with a strong problem-solving mindset and a curious mind.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Languages & Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,ts,js,html,css,react,redux,nodejs,express,django,fastapi,postgresql,mysql,mongodb,git,github,docker,linux" />
+</p>
+
+---
+
+## 📚 Currently Focusing On
+
+- Agentic AI and multi-agent systems  
+- LLMs & Retrieval-Augmented Generation (RAG)  
+- Cloud & DevOps for AI-powered applications  
+
+---
+
+## 📫 Connect with Me
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/yassine-assiani-30437b274/)
+- 🐙 [GitHub](https://github.com/YOUR-GITHUB-USERNAME)
+- 📧 yassine.assiani@ensi-uma.tn  
+
+---
+
+⭐ _“Clean code, curious mind, practical AI.”_
